@@ -1,3 +1,3 @@
 # Site-Livro
 
-Codigos para a crianção de um site
+Guia para a criação de um site
